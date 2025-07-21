@@ -1,1 +1,2 @@
-# mlop_class_task_i191716
+# MLOPs activity 3
+This is a repository made by Salar Ahmed for MLOPs
